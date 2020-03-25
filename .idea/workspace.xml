@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6769f01e-2c04-43e2-87a4-c0b9ac542956" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z1B9FD55yAOJisAMp1m6OrwJQw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Desktop\Weatherbot\data" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6769f01e-2c04-43e2-87a4-c0b9ac542956" name="Default Changelist" comment="" />
+      <created>1583996567359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583996567359</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="90" key="#Inspections" timestamp="1584079729839">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="90" key="#Inspections/0.0.1600.860/-1600.0.1600.900@0.0.1600.860" timestamp="1584079729839" />
+    <state x="392" y="90" key="#Notifications" timestamp="1584079588944">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="90" key="#Notifications/0.0.1600.860/-1600.0.1600.900@0.0.1600.860" timestamp="1584079588944" />
+    <state x="247" y="152" key="FileChooserDialogImpl" timestamp="1584080015932">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="247" y="152" key="FileChooserDialogImpl/0.0.1600.860/-1600.0.1600.900@0.0.1600.860" timestamp="1584080015932" />
+    <state x="380" y="167" key="IDE.errors.dialog" timestamp="1583998606363">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="167" key="IDE.errors.dialog/0.0.1600.860/-1600.0.1600.900@0.0.1600.860" timestamp="1583998606363" />
+    <state x="303" y="61" key="SettingsEditor" timestamp="1584080067428">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="303" y="61" key="SettingsEditor/0.0.1600.860/-1600.0.1600.900@0.0.1600.860" timestamp="1584080067428" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1584525967828">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860/-1600.0.1600.900@0.0.1600.860" timestamp="1584525967828" />
+  </component>
+</project>
